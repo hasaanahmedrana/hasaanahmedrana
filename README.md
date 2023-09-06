@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hasaanahmedrana
 - 🌱 I’m currently learning basic python , Object Oriented Programming.
 - 💞️ I’m looking to collaborate on basic python or OOP projects and html/css websites
-- 📫 mail me at hasaanahmedrana@gmail.com or contact me on instagram hasaan.rana3
+- 📫 mail me at hasaanahmedrana@gmail.com or contact me on linked-in: https://www.linkedin.com/in/hassan-rana-216b91262/ or  instagram: hasaan.rana3
 - 
 
 <!---
