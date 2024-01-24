@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hassan Ahmed Rana</h1>
-<h3 align="center">A passionate data science aspirant</h3>
+<h3 align="center">A passionate Data science aspirant</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasaanahmedrana&label=Profile%20views&color=0e75b6&style=flat" alt="hasaanahmedrana" /> </p>
 
-- 🔭 I’m currently studying **data science**
+- 🔭 I’m currently studying **Data Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
