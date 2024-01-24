@@ -2,8 +2,7 @@
 - 🌱 I’m currently learning basic python , Object Oriented Programming.
 - 💞️ I’m looking to collaborate on basic python or OOP projects and html/css websites
 - 📫 mail me at hasaanahmedrana@gmail.com or contact me on linked-in: https://www.linkedin.com/in/hassan-rana-216b91262/ or  instagram: hasaan.rana3
-- 
-
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasaanahmedrana)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 hasaanahmedrana/hasaanahmedrana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
